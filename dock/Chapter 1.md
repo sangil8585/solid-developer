@@ -97,6 +97,7 @@ List<String> list = Collections.singletonList("hello");
 
 타입추론에서 가장 중요한 개선은 제네릭 처리와 관련해서 자바 7에서 발생했는데
 자바7 이전에는 다음과같은 코드를 보는게 일반적이었다.
+
 AS-IS
 ```java
 import java.util.*;
